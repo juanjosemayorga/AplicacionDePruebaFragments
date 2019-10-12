@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.bottomnavigation.BottomNavigationView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bnv_main_activity"
+    android:layout_gravity="bottom"
+    android:foregroundGravity="bottom"
+    android:background="@color/colorPrimary"
+    app:itemTextColor="@color/colorWhite"
+    app:itemIconTint="@color/colorWhite"
+    app:menu="@menu/menu_main_activity"
+    android:elevation="6dp"
+    android:layout_alignParentBottom="true">
+
+
+
+</com.google.android.material.bottomnavigation.BottomNavigationView>
